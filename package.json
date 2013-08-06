@@ -1,0 +1,13 @@
+{
+  "name": "tipm-require",
+  "version": "0.1.0",
+  "description": "require implementation for tipm(1)",
+  "keywords": ["require", "tipm"],
+  "author": "Christian Sullivan <cs@bodhi5.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
